@@ -2,7 +2,7 @@
 - 👀 I’m interested in Designing Programs
 - 🌱 I’m currently learning Calculus
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? - mailto:new.computeruser.old@gmail.com
+- 📫 How to reach me? - new.computeruser.old@gmail.com - FB.com/Flowaxial
 
 <!---
 Axialflow/Axialflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
