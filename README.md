@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Axialflow
-- 👀 I’m interested in Designing Programs
-- 🌱 I’m currently learning Calculus
+- 👋 Hi, I’m @Axisflow
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? - <https://FB.com/Flowaxial>
+- 📫 How to reach me? - <admin@axisflow.biz>
 
 <!---
 Axialflow/Axialflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
