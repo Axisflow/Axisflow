@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @Axisflow
-- 👀 I’m interested in AIoT, Systems Programming and Web Development/Management
-- 🌱 I’m currently(113-1) learning the following courses in NCHU
-- 1. Operating System
-  2. Deep Learning
-  3. Data Mining
-  4. Data Model/Processing
-  5. Information Security and Cryptography
 - 📫 How to reach me? - <admin@axisflow.biz>
+- 👀 I’m interested in AIoT, Systems Programming and Web Development/Management
+- 🌱 I’m currently(113-1) learning the following courses in NCHU:
+    1. Operating System
+    2. Deep Learning
+    3. Data Mining
+    4. Data Model/Processing
+    5. Information Security and Cryptography
 
 <!--- 💞️ I’m looking to collaborate on --->
 ###### Temporary for Recommendation
 ### 程設能力
-- CPE 專業級（5 題） 
+- CPE 專業級（5 題）
 
 ### 競賽經歷
 - (2024/10/16) 113 全國大專電腦軟體設計競賽(NCPC) 獲得佳作
