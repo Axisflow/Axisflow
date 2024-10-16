@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Axisflow
 - 📫 How to reach me? - <admin@axisflow.biz>
+- ⌨️ I mainly use C/C++, Java, Python, Javascript, PHP and Verilog
+- 🧩 I also use some frameworks/tools like Qt, Spring, Vue, Bootstrap and Vivado
 - 👀 I’m interested in AIoT, Systems Programming and Web Development/Management
 - 🌱 I’m currently(113-1) learning the following courses in NCHU:
     1. Operating System
@@ -14,7 +16,7 @@
 - CPE 專業級（5 題）
 
 ### 競賽經歷
-- (2024/10/16) 113 全國大專電腦軟體設計競賽(NCPC) 獲得佳作
+- (2024/10/13) 113 全國大專電腦軟體設計競賽(NCPC) 獲得佳作
 - (2024/9/7-8) 2024 臺北秋季程式設計節城市通微服務大黑客松 參賽
 - (2022/10) 111 全國大專電腦軟體設計競賽(NCPC) 進入決賽
 
